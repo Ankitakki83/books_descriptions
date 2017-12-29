@@ -1,0 +1,15 @@
+.Header {
+    width: 100%;
+    height: 80px;
+    background-color: #095480;
+    border-radius: 8px;
+    margin-top: 5px;
+}
+
+.Header-Text {
+    font-size: 35px;
+    color: #ffffff;
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 30px;
+}

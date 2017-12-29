@@ -1,0 +1,31 @@
+.Book-List {
+    width: 250px;
+    height: 60px;
+    background-color: #e6e6e6;
+    border: solid 1px #d1d5d6;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 4px;
+    cursor: pointer;
+}
+
+.Book-Title {
+    padding-top: 18px;
+    align-content: center;
+    text-align: center;
+    color: #095480;
+}
+
+.BodyContent {
+    display: flex;
+    background-color: #dadada;
+    height: 800px;
+}
+
+.MovieList {
+    width: 40%;
+}
+
+.MovieDetails {
+    width: 60%;
+}

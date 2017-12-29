@@ -1,0 +1,13 @@
+.BodyContent {
+    display: flex;
+    background-color: #dadada;
+    height: 550px;
+}
+
+.MovieList {
+    width: 40%;
+}
+
+.MovieDetails {
+    width: 60%;
+}
